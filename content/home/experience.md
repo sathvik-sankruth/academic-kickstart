@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "Jan 2, 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Netchronix IT Solutions"
   company_url = "http://www.netchronix.com/ "
   location = "Bangalore, India"
-  date_start = "Jan 2006"
-  date_end = "Jan 2006"
+  date_start = "Jan 2, 2006"
+  date_end = "Jan 2, 2006"
   description = """
   Responsibilities include:
   * Worked on Web Development
@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   company = "Walmart Global Technology Service"
   company_url = "https://indiacareers.walmartlabs.com/ "
   location = "Bangalore,India"
-  date_start = "Jan 2006"
-  date_end = "Jan 2006"
+  date_start = "Jan 2, 2006"
+  date_end = "Jan 2, 2006"
   description = """
   Responsibilities include:
   * Developed frontend Web Application on Angular js
