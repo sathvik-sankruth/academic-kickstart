@@ -20,10 +20,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Software Developer Intern"
   company = "Netchronix IT Solutions"
-  company_url = ""
+  company_url = "http://www.netchronix.com/ "
   location = "Bangalore, India"
-  date_start = ""
-  date_end = ""
+  date_start = "2017-01-01"
+  date_end = "J2017-01-01"
   description = """
   Responsibilities include:
   * Worked on Web Development
@@ -34,10 +34,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Software Developer Intern"
   company = "Walmart Global Technology Service"
-  company_url = ""
+  company_url = "https://indiacareers.walmartlabs.com/ "
   location = "Bangalore,India"
-  date_start = ""
-  date_end = ""
+  date_start = "2017-01-01"
+  date_end = "2017-04-08"
   description = """
   Responsibilities include:
   * Developed frontend Web Application on Angular js
