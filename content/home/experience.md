@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://www.netchronix.com/ "
   location = "Bangalore, India"
   date_start = "2017-01-01"
-  date_end = "J2017-01-01"
+  date_end = "2017-01-01"
   description = """
   Responsibilities include:
   * Worked on Web Development
