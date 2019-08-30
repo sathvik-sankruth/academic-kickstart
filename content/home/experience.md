@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://www.netchronix.com/ "
   location = "Bangalore, India"
   date_start = "Jan 2006"
-  date_end = "May 2018"
+  date_end = "Jan 2006"
   description = """
   Responsibilities include:
   * Worked on Web Development
@@ -36,13 +36,14 @@ date_format = "Jan 2006"
   company = "Walmart Global Technology Service"
   company_url = "https://indiacareers.walmartlabs.com/ "
   location = "Bangalore,India"
-  date_start = "Jan 2017"
-  date_end = "Jun 2017"
+  date_start = "Jan 2006"
+  date_end = "Jan 2006"
   description = """
   Responsibilities include:
   * Developed frontend Web Application on Angular js
   * Worked on new functionality using Docker, Jenkins
   * Developed backend using Java, Dbeaver
+  
   """
 
 +++
