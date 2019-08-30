@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Netchronix IT Solutions"
   company_url = "http://www.netchronix.com/ "
   location = "Bangalore, India"
-  date_start = "Nov 2017"
+  date_start = "Jan 2006"
   date_end = "May 2018"
   description = """
   Responsibilities include:
