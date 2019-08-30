@@ -43,5 +43,6 @@ date_format = "Jan 2006"
   * Developed frontend Web Application on Angular js
   * Worked on new functionality using Docker, Jenkins
   * Developed backend using Java, Dbeaver
+  """
 
 +++
