@@ -15,21 +15,76 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "JAVA"
+  description = "80%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "PYTHON"
+  description = "70%"
+  
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
+  description = "40%"
+
+[[feature]]
+  icon = "android"
+  icon_pack = "fab"
+  name = "Android"
+  description = "50%"
+
+[[feature]]
+  icon = "angular"
+  icon_pack = "fab"
+  name = "Angular"
+  description = "60%" 
+
+[[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML5"
   description = "90%"
-  
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "js"
+  icon_pack = "fab"
+  name = "Java Script"
+  description = "90%"
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "css3-alt"
+  icon_pack = "fab"
+  name = "CSS3"
+  description = "90%"
+
+[[feature]]
+  icon = "php"
+  icon_pack = "fab"
+  name = "PHP"
+  description = "90%"
+
+[[feature]]
+  icon = "bootstrap"
+  icon_pack = "fab"
+  name = "Bootstrap"
+  description = "60%" 
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "20%" 
+
+[[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Jenkins"
+  description = "20%"
+  
 
 +++
