@@ -68,11 +68,6 @@ subtitle = ""
   name = "PHP"
   description = "90%"
 
-[[feature]]
-  icon = "bootstrap"
-  icon_pack = "fab"
-  name = "Bootstrap"
-  description = "60%" 
 
 [[feature]]
   icon = "docker"

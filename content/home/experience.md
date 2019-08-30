@@ -22,11 +22,13 @@ date_format = "Jan 2006"
   company = "Netchronix IT Solutions"
   company_url = "http://www.netchronix.com/ "
   location = "Bangalore, India"
-  date_start = "2017-01-01"
-  date_end = "2017-01-01"
+  date_start = "2017-11-01"
+  date_end = "2018-05-01"
   description = """
   Responsibilities include:
+
   * Worked on Web Development
+
   * Developed in HTML, CSS, JavaScript, PHP, Bootstrap
   
   """
@@ -37,11 +39,14 @@ date_format = "Jan 2006"
   company_url = "https://indiacareers.walmartlabs.com/ "
   location = "Bangalore,India"
   date_start = "2017-01-01"
-  date_end = "2017-04-08"
+  date_end = "2017-06-01"
   description = """
   Responsibilities include:
+  
   * Developed frontend Web Application on Angular js
+
   * Worked on new functionality using Docker, Jenkins
+
   * Developed backend using Java, Dbeaver
 
   """
