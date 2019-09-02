@@ -22,7 +22,6 @@ subtitle = ""
   filter_default = 0
   
   name="smart pool"
-  An android application.
    #[[content.filter_button]]
    #  name = "All"
    #  tag = "*"
