@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sankruth06@gmail.com"
 phone = "+1 469 269 7660"
-address = "1008 Greek Row Drive, Arbor Oaks, Arlington, Texas, 76013, USA"
+address = "Arlington, Texas, 76013, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours =""
