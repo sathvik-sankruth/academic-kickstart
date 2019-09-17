@@ -2,6 +2,23 @@
 
 title="Recommendation System"
 
+[[gallery_item]]
+album = "Screenshots"
+image = "1.PNG"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "2.PNG"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "3.PNG"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "4.PNG"
+
+
 +++
 
 Project Proposal:
@@ -13,11 +30,19 @@ These days nearly everybody watches Youtube videos. However there is no applicat
 
 
 The dataset is available here:
+
 Trending Videos in Youtube:
 https://www.kaggle.com/datasnaek/youtube-new
 
 
 Similar Applications:
+
 https://www.youtube.com/user/YouTube/playlists
+
 https://en.wikipedia.org/wiki/List_of_most-liked_YouTube_videos
+
 https://www.digitaltrends.com/web/most-viewed-youtube-videos/
+
+
+**Screenshot Sketches:**
+{{< gallery album="Screenshots" >}}
