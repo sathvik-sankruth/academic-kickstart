@@ -18,10 +18,6 @@ image = "3.PNG"
 album = "Screenshots"
 image = "4.PNG"
 
-[[main]]
-   name = "CV"
-   url = "files/cv.pdf"
-   weight = 70
 
 +++
 
