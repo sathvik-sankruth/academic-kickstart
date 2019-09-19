@@ -1,6 +1,6 @@
 +++
 
-title="Recommendation System"
+title="Term Project(DataMining)"
 
 [[gallery_item]]
 album = "Screenshots"
@@ -18,10 +18,16 @@ image = "3.PNG"
 album = "Screenshots"
 image = "4.PNG"
 
+[[main]]
+   name = "CV"
+   url = "files/cv.pdf"
+   weight = 70
 
 +++
 
 **Project Proposal:**
+
+**Text Search, Classifier and Image Captioning**
 
 **Why someone will need this app?**
 
@@ -30,9 +36,15 @@ Nowadays people spend their time online for many activities such as surfing the 
 
 
 **The dataset is available here:**
-
-Trending Videos in Youtube:
+**Text Search and Classification dataset:**
+Trending Videos in Youtube
 https://www.kaggle.com/datasnaek/youtube-new
+
+
+
+**Image Captioning dataset:**
+Intel Image Classification:
+https://www.kaggle.com/puneet6060/intel-image-classification
 
 
 **Similar Applications:**
