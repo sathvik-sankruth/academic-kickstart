@@ -1,6 +1,6 @@
 +++
 
-title="Term Project(DataMining)"
+title="Term Project DataMining "
 
 [[gallery_item]]
 album = "Screenshots"
@@ -33,12 +33,16 @@ Nowadays people spend their time online for many activities such as surfing the 
 
 **The dataset is available here:**
 **Text Search and Classification dataset:**
+
+
 Trending Videos in Youtube
 https://www.kaggle.com/datasnaek/youtube-new
 
 
 
 **Image Captioning dataset:**
+
+
 Intel Image Classification:
 https://www.kaggle.com/puneet6060/intel-image-classification
 
