@@ -8,37 +8,47 @@ title="Phase1 Search "
 
 A search feature which ranks the result based on the tf-idf scores.
 
- Website Link:http://sankruth06.pythonanywhere.com/
- Github Link: 
+ Website Link : http://sankruth06.pythonanywhere.com/
+ Github Link : 
 
 **How to Deploy code :**
- Create an account in pythonanywhere
- Create a virtual environment and install python3, flask, nltk, numpy, pandas
- Add the files
- Go to the http link
+ Create an account in pythonanywhere<br>
+ Create a virtual environment and install python3, flask, nltk, numpy, pandas<br>
+ Add the files<br>
+ Go to the http link<br>
 
 **How code works:**
- Read data which is a csv file from pandas. 
- Tokenizer uses regular expressions to remove unwanted data.
- Remove stop words using nltk.
- Calculate term frequency
- Calculate Inverse Document Frequency
- Store tf-idf
+ Read data which is a csv file from pandas.
 
- Query Words:
-  The query input is taken from the html page
+ Tokenizer uses regular expressions to remove unwanted data.
+
+ Remove stop words using nltk.
+
+ Calculate term frequency.
+
+ Calculate Inverse Document Frequency.
+
+ Store tf-idf.
+
+
+ Query Words: <br>
+  The query input is taken from the html page.
+
   Process the query convert it to lower case.
+
   Remove stop words from query.
+
   Rank the documents based on the similarity
+
   The top 20 results are displayed.
 
 **Calculating TF-IDF:**
 
- Term Frequency(TF)=Number of times the word occures in document/Total Number of words in document
+ Term Frequency(TF)= Number of times the word occures in document / Total Number of words in document
 
- Inverse Document Frequency(idf)=Total Number of documents/Number of documents with the keyword
+ Inverse Document Frequency(idf)= Total Number of documents / Number of documents with the keyword
 
- TF_IDF=TF*IDF
+ TF_IDF=TF*IDF 
 
 
 **Challenges faced:**
@@ -50,6 +60,7 @@ A search feature which ranks the result based on the tf-idf scores.
 
 
 **References:**
+
  * https://github.com/williamscott701/Information-Retrieval/blob/master/2.%20TF-IDF%20Ranking%20-%20Cosine%20Similarity%2C%20Matching%20Score/TF-IDF.ipynb
 
  * https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
