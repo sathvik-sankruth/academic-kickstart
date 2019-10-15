@@ -9,7 +9,7 @@ title="Phase1 Search "
 A search feature which ranks the result based on the tf-idf scores.
 
  Website Link : http://sankruth06.pythonanywhere.com/
- Github Link : 
+ Github Link : https://github.com/sathvik-sankruth/phase1-search
 
 **How to Deploy code :**<br>
  Create an account in pythonanywhere<br>
@@ -46,7 +46,7 @@ A search feature which ranks the result based on the tf-idf scores.
 
  Term Frequency(TF)= Number of times the word occures in document / Total Number of words in document
 
- Inverse Document Frequency(idf)= Total Number of documents / Number of documents with the keyword
+ Inverse Document Frequency(idf)= log( Total Number of documents / Number of documents with the keyword )
 
  TF_IDF=TF*IDF 
 
