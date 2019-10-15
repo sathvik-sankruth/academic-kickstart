@@ -11,13 +11,13 @@ A search feature which ranks the result based on the tf-idf scores.
  Website Link : http://sankruth06.pythonanywhere.com/
  Github Link : 
 
-**How to Deploy code :**
+**How to Deploy code :**<br>
  Create an account in pythonanywhere<br>
  Create a virtual environment and install python3, flask, nltk, numpy, pandas<br>
  Add the files<br>
  Go to the http link<br>
 
-**How code works:**
+**How code works:**<br>
  Read data which is a csv file from pandas.
 
  Tokenizer uses regular expressions to remove unwanted data.
