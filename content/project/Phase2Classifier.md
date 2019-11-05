@@ -20,7 +20,7 @@ After saving the new data set, we convert to lowercase, perform stemming and eli
 **2. Processing:** <br>
 Naïve Bayes classification is implemented using the formula.
 
-$$ P(A \mid B) = \frac{P(B \mid A) \, P(A)}{P(B)} $$
+![img](https://sathvik-sankruth.netlify.com/img/Eqn.png)
 
 Therefore, the mission is to construct a table to store the conditional probability for each term in the vocabulary with respect to each category.
 
@@ -28,7 +28,7 @@ Therefore, the mission is to construct a table to store the conditional probabil
 
 However, first, for each class c in the categories, the prior probability would be the number of documents in class c divided by the total number of documents.
 
-P(c)=Number of documents in c/ Total Number of documents
+![img](https://sathvik-sankruth.netlify.com/img/Eqn2.png)
 
 Then the conditional probability can be calculated by the frequency of term t in document belong to class c.
 
