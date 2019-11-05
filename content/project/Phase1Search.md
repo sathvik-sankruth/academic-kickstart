@@ -10,7 +10,7 @@ A search feature which ranks the result based on the tf-idf scores.
 
  Website Link : http://satsankruth.pythonanywhere.com/
  
- Github Link : https://github.com/sathvik-sankruth/phase1-search
+ Github Link : https://github.com/sathvik-sankruth/Term-project
 
 **How to Deploy code :**<br>
  Create an account in pythonanywhere<br>

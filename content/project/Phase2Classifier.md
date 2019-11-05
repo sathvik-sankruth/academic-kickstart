@@ -6,7 +6,7 @@ title="Phase2 Classifier "
 **Phase 2**
 Classifier: Multinomial Naïve Bayes Classifier<br>
 Website Link : http://satsankruth.pythonanywhere.com/ <br>
-Github Link:
+Github Link: https://github.com/sathvik-sankruth/Term-project <br>
 
 A classifier is an algorithm that separates similar objects based on some features. For example, A video can be classified into music, autos & vehicles, comedy, gaming based on the category. However, what if we want to classify a new video? This can be done using very simple concept of probability, which is Naïve Bayes. Naïve Bayes is one of the popular classifiers when it comes to text classification. We can calculate the conditional probability of each term in the dataset’s vocabulary appear in each category.
 
