@@ -29,6 +29,7 @@ Testing the model with the reduced data took additional 1hr.<br>
 Understanding how Jupyter Notebook, Tensor flow, Neural Network, Google Collab Feature works was a bit challenging.<br>
 
 **Reference:**<br>
+
 * https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib/eager/python/examples/generative_examples/image_captioning_with_attention.ipynb
 
 * https://arxiv.org/abs/1502.03044
