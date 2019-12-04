@@ -75,3 +75,8 @@ A search feature which ranks the result based on the tf-idf scores.
  * https://www.youtube.com/watch?v=M-QRwEEZ9-8
 
 
+<br><br>
+[Phase 2 Classify](https://sathvik-sankruth.netlify.com/project/phase2classifier/)
+[Phase 3 Image Caption Search](https://sathvik-sankruth.netlify.com/project/phase3imagecaption/)
+<br><br>
+

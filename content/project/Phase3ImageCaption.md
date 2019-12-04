@@ -40,3 +40,8 @@ Understanding how Jupyter Notebook, Tensor flow, Neural Network, Google Collab F
 
 * https://hackernoon.com/begin-your-deep-learning-project-for-free-free-gpu-processing-free-storage-free-easy-upload-b4dba18abebc 
 
+
+<br><br>
+[Phase 1 Search](https://sathvik-sankruth.netlify.com/project/phase1search/)
+[Phase 2 Classify](https://sathvik-sankruth.netlify.com/project/phase2classifier/)
+<br><br>

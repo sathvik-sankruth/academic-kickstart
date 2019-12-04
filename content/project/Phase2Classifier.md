@@ -43,7 +43,9 @@ To avoid sparseness that would lead conditional probabilities to be zero, we sho
 ![img](https://sathvik-sankruth.netlify.com/img/class3.PNG)
 
 **4. Contribution:** <br>
-To avoid  sparseness which leads probabilities to be zero, Applied Smoothing hyperparameter to 1. <br>
+To avoid  sparseness which leads probabilities to be zero, Applied Smoothing hyperparameter to 0.1. <br>
+![img](https://sathvik-sankruth.netlify.com/img/class6.PNG)
+Selected the hyperparameter to 0.1 because it has the highest accuracy rate. As we can see in the graph the accuracy rate drops down when the hyperparameter value is more <br>
 
 The Data set was split into Test data and Train data from sklearn.model_selection which ensures even distribution of the data. <br>
 
@@ -54,6 +56,8 @@ Compared the Naïve Bayes classifier and SVM and found that Naive Bayes classifi
 ![img](https://sathvik-sankruth.netlify.com/img/class5.PNG)
  
 Shows the percentages of classes. <br>
+
+
  
 **5. Challenges faced:** 
 Optimizing the algorithm was a bit challenging. <br>
@@ -71,3 +75,8 @@ The data set has many repeated items with 40K rows. Modified data set so that it
 
 * https://nlp.stanford.edu/IR-book/pdf/13bayes.pdf
 
+
+<br><br>
+[Phase 1 Search](https://sathvik-sankruth.netlify.com/project/phase1search/)
+[Phase 3 Image Caption Search](https://sathvik-sankruth.netlify.com/project/phase3imagecaption/)
+<br><br>
