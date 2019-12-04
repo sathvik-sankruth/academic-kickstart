@@ -77,6 +77,6 @@ The data set has many repeated items with 40K rows. Modified data set so that it
 
 
 <br><br>
-[Phase 1 Search](https://sathvik-sankruth.netlify.com/project/phase1search/)
-[Phase 3 Image Caption Search](https://sathvik-sankruth.netlify.com/project/phase3imagecaption/)
+[Phase 1 Search](https://sathvik-sankruth.netlify.com/project/phase1search/)<br>
+[Phase 3 Image Caption Search](https://sathvik-sankruth.netlify.com/project/phase3imagecaption/)<br>
 <br><br>

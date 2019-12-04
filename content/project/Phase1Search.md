@@ -76,7 +76,7 @@ A search feature which ranks the result based on the tf-idf scores.
 
 
 <br><br>
-[Phase 2 Classify](https://sathvik-sankruth.netlify.com/project/phase2classifier/)
-[Phase 3 Image Caption Search](https://sathvik-sankruth.netlify.com/project/phase3imagecaption/)
+[Phase 2 Classify](https://sathvik-sankruth.netlify.com/project/phase2classifier/) <br>
+[Phase 3 Image Caption Search](https://sathvik-sankruth.netlify.com/project/phase3imagecaption/)<br>
 <br><br>
 

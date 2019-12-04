@@ -28,6 +28,11 @@ My dataset was huge 30K images which is around 4Gb hence modified my dataset to 
 Testing the model with the reduced data took additional 1hr.<br>
 Understanding how Jupyter Notebook, Tensor flow, Neural Network, Google Collab Feature works was a bit challenging.<br>
 
+**Limitations:**<br>
+There are a few images for which the generated captions failed.<br>
+![img](https://sathvik-sankruth.netlify.com/img/imgcap3.PNG)
+![img](https://sathvik-sankruth.netlify.com/img/imgcap4.PNG)
+
 **Reference:**<br>
 
 * https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib/eager/python/examples/generative_examples/image_captioning_with_attention.ipynb
@@ -42,6 +47,6 @@ Understanding how Jupyter Notebook, Tensor flow, Neural Network, Google Collab F
 
 
 <br><br>
-[Phase 1 Search](https://sathvik-sankruth.netlify.com/project/phase1search/)
-[Phase 2 Classify](https://sathvik-sankruth.netlify.com/project/phase2classifier/)
+[Phase 1 Search](https://sathvik-sankruth.netlify.com/project/phase1search/)<br>
+[Phase 2 Classify](https://sathvik-sankruth.netlify.com/project/phase2classifier/)<br>
 <br><br>
