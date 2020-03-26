@@ -15,37 +15,37 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-terminal"
+  icon = "terminal"
   icon_pack = "fas"
   name = "Programming Languages"
   description = "Java, Python, C, R, Chuck"
 
 [[feature]]
-  icon = "fa-code"
+  icon = "code"
   icon_pack = "fas"
   name = "Web Technology"
   description = "HTML, CSS, JavaScript, PHP, Ajax, JSP, XML, AngularJs, Bootstrap"
   
 [[feature]]
-  icon = "fa-phone-laptop"
+  icon = "phone-laptop"
   icon_pack = "fas"
   name = "Operating Systems"
   description = "Windows, Unix, Linux, IOS, Android"
 
 [[feature]]
-  icon = "fa-database"
+  icon = "database"
   icon_pack = "fas"
   name = "Database Systems"
   description = "MYSQL, MongoDB, PostgreSQL, DBeaver"
 
 [[feature]]
-  icon = "fa-codepen"
+  icon = "codepen"
   icon_pack = "fab"
   name = "BigData Technologies"
   description = "Hadoop, MapReduce, Hive, Scala, PIG, GraphX" 
 
 [[feature]]
-  icon = "fa-tools"
+  icon = "tools"
   icon_pack = "fas"
   name = "Technologies"
   description = "Docker, Jenkins, GIT" 
