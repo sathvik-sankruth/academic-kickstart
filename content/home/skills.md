@@ -15,71 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "JAVA"
-# description = "80%"
+  icon = "fa-terminal"
+  icon_pack = "fas"
+  name = "Programming Languages"
+  description = "Java, Python, C, R, Chuck"
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "PYTHON"
-  description = "70%"
+  icon = "fa-code"
+  icon_pack = "fas"
+  name = "Web Technology"
+  description = "HTML, CSS, JavaScript, PHP, Ajax, JSP, XML, AngularJs, Bootstrap"
   
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "40%"
+  icon = "fa-phone-laptop"
+  icon_pack = "fas"
+  name = "Operating Systems"
+  description = "Windows, Unix, Linux, IOS, Android"
 
 [[feature]]
-  icon = "android"
-  icon_pack = "fab"
-  name = "Android"
-  description = "50%"
+  icon = "fa-database"
+  icon_pack = "fas"
+  name = "Database Systems"
+  description = "MYSQL, MongoDB, PostgreSQL, DBeaver"
 
 [[feature]]
-  icon = "angular"
+  icon = "fa-codepen"
   icon_pack = "fab"
-  name = "Angular"
-  description = "60%" 
+  name = "BigData Technologies"
+  description = "Hadoop, MapReduce, Hive, Scala, PIG, GraphX" 
 
 [[feature]]
-  icon = "html5"
-  icon_pack = "fab"
-  name = "HTML5"
-  description = "90%"
-
-[[feature]]
-  icon = "js"
-  icon_pack = "fab"
-  name = "Java Script"
-  description = "90%"
-
-[[feature]]
-  icon = "css3-alt"
-  icon_pack = "fab"
-  name = "CSS3"
-  description = "90%"
-
-[[feature]]
-  icon = "php"
-  icon_pack = "fab"
-  name = "PHP"
-  description = "90%"
-
-
-[[feature]]
-  icon = "docker"
-  icon_pack = "fab"
-  name = "Docker"
-  description = "20%" 
-
-[[feature]]
-  icon = "jenkins"
-  icon_pack = "fab"
-  name = "Jenkins"
-  description = "20%"
+  icon = "fa-tools"
+  icon_pack = "fas"
+  name = "Technologies"
+  description = "Docker, Jenkins, GIT" 
   
 
 +++
