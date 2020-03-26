@@ -20,11 +20,11 @@ subtitle = ""
   name = "JAVA"
   description = "80%"
 
-  icon = "java"
+  icon = "python"
   icon_pack = "fab"
-  name = "JAVA"
+  name = "p"
   description = "80%"
-  
+
   icon = "java"
   icon_pack = "fab"
   name = "JAVA"
