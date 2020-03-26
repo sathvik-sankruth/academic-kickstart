@@ -27,7 +27,7 @@ subtitle = ""
   description = "HTML, CSS, JavaScript, PHP, Ajax, JSP, XML, AngularJs, Bootstrap"
   
 [[feature]]
-  icon = "phone-laptop"
+  icon = "laptop"
   icon_pack = "fas"
   name = "Operating Systems"
   description = "Windows, Unix, Linux, IOS, Android"
